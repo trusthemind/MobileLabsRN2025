@@ -1,0 +1,58 @@
+export const news = [
+  {
+    id: "1",
+    title: "Spring Festival Kicks Off",
+    date: "2025-04-30",
+    text: "The annual Spring Festival starts this weekend with music, food, and games.",
+    image: "https://images.unsplash.com/photo-1556909212-6ae65bba03c2",
+  },
+  {
+    id: "2",
+    title: "AI Workshop Registration Open",
+    date: "2025-04-28",
+    text: "Sign up now for the hands-on AI and Machine Learning workshop series.",
+    image: "https://images.unsplash.com/photo-1581091870627-3b3c9a27760e",
+  },
+  {
+    id: "3",
+    title: "New Campus Shuttle Routes",
+    date: "2025-04-25",
+    text: "Improved shuttle routes and schedules to better serve all students.",
+    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+  },
+  {
+    id: "4",
+    title: "Professor Wins National Award",
+    date: "2025-04-22",
+    text: "Dr. Elena Marchenko has been awarded the National Science Teaching Medal.",
+    image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+  },
+  {
+    id: "5",
+    title: "Sustainability Week Launch",
+    date: "2025-04-20",
+    text: "Join events focusing on climate action, recycling, and eco-friendly habits.",
+    image: "https://images.unsplash.com/photo-1497493292307-31c376b6e479",
+  },
+  {
+    id: "6",
+    title: "Free Yoga Classes for Students",
+    date: "2025-04-18",
+    text: "Wellness center offers free yoga every morning this month.",
+    image: "https://images.unsplash.com/photo-1605296867304-46d5465a13f1",
+  },
+  {
+    id: "7",
+    title: "Annual Coding Challenge Begins",
+    date: "2025-04-15",
+    text: "Compete in this year’s hackathon and win tech prizes.",
+    image: "https://images.unsplash.com/photo-1518770660439-4636190af475",
+  },
+  {
+    id: "8",
+    title: "Graduation Ceremony Details Announced",
+    date: "2025-04-12",
+    text: "Check the official site for ceremony dates, guest policies, and gown pickup.",
+    image: "https://images.unsplash.com/photo-1622174492291-b0bb1fd1cd5b",
+  },
+];
