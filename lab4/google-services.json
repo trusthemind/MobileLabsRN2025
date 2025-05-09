@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665115931247",
+    "project_id": "to-do-native",
+    "storage_bucket": "to-do-native.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665115931247:android:3315cb8197ea82d865939a",
+        "android_client_info": {
+          "package_name": "reminder.todoreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspaN6I2ZKdZ6C0rmTl1VcXBmbFM9JHbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
